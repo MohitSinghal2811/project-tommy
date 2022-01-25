@@ -1,0 +1,31 @@
+# 00 Line-Flow MW (2 to 1)
+# 01 Line-Flow MVR (2 to 1)
+# 02 Line Flow MW (1 to 2)
+# 03 Line Flow MVR (1 to 2)
+# 04 Bus 2 Load MW
+# 05 Bus 2 Load MVR
+# 06 Bus 1 PU
+# 07 Bus 2 AGC
+# 08 Bus 2 Gen MW
+# 09 Line-Flow MW (2 to 3)
+# 10 Bus 2 AVR
+# 11 Bus 2 Gen MVR
+# 12 Line-Flow MVR (2 to 3)
+# 13 Bus 1 Gen MW
+# 14 Bus 1 Gen MVR
+# 15 Line-Flow MW (3 to 2)
+# 16 Line-Flow MVR (3 to 2)
+# 17 Line-Flow MW (1 to 3)
+# 18 Bus 1 Load MW
+# 19 Bus 2 PU
+# 20 Bus 3 Gen MW
+# 21 Bus 3 Gen MVR
+# 22 Line-Flow MVR (1 to 3)
+# 23 Bus 3 AGC
+# 24 Bus 3 AVR
+# 25 Bus 3 PU
+# 26 Bus 3 Load MW
+# 27 Bus 3 Load MVR
+# 28 Line-Flow MW (3 to 1)
+# 29 Line-Flow MVR (3 to 1)
+# 30 Current Time
